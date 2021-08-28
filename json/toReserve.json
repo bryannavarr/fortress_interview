@@ -1,0 +1,38 @@
+[
+    {
+        "room_id": "e142dd76-df6e-479c-945d-0f8bf9d7b52e",
+        "checkin_date": "2021-01-01",
+        "checkout_date": "2021-01-05",
+        "total_charge": 108
+    },
+    {
+        "room_id": "f8620433-c510-4d95-8005-691f6a030fe9",
+        "checkin_date": "2021-01-03",
+        "checkout_date": "2021-01-04",
+        "total_charge": 55
+    },
+    {
+        "room_id": "e142dd76-df6e-479c-945d-0f8bf9d7b52e",
+        "checkin_date": "2021-01-03",
+        "checkout_date": "2021-01-04",
+        "total_charge": 27
+    },
+    {
+        "room_id": "e142dd76-df6e-479c-945d-0f8bf9d7b52e",
+        "checkin_date": "2021-01-01",
+        "checkout_date": "2021-01-05",
+        "total_charge": 108
+    },
+    {
+        "room_id": "f8620433-c510-4d95-8005-691f6a030fe9",
+        "checkin_date": "2021-01-31",
+        "checkout_date": "2021-02-03",
+        "total_charge": 111
+    },
+    {
+        "room_id": "f8620433-c510-4d95-8005-691f6a030fe9",
+        "checkin_date": "2021-01-04",
+        "checkout_date": "2021-01-05",
+        "total_charge": 55
+    }
+]
